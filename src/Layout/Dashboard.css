@@ -1,0 +1,9 @@
+.nav .active {
+    background-color: #7E22CE;
+    color: white;
+}
+
+.nav .active .navli {
+    color: white;
+    background-color: black;
+}
